@@ -85,7 +85,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json">
-      <Version>12.0.2</Version>
+      <Version>13.0.2</Version>
     </PackageReference>
     <PackageReference Include="UIAComWrapper">
       <Version>1.1.0.14</Version>
